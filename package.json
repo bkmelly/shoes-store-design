@@ -1,6 +1,5 @@
 {
-    "engines": {
-      "node": "22.1.0"
-    }
+  "dependencies": {
+    "node": "^22.12.0"
   }
-  
+}
