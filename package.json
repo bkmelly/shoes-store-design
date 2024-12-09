@@ -6,7 +6,6 @@
     "node": "22.12.0"
   },
   "scripts": {
-    "build": "npm run compile-sass && npm run other-build-tasks",
-    "compile-sass": "sass src/styles:dist/styles"
+    "build": "echo 'No build step required'"
   }
 }
